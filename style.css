@@ -97,6 +97,8 @@ footer {
   background-color: black;
   color: #fff;
   padding: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 footer ul {
@@ -105,6 +107,7 @@ footer ul {
   align-items: center;
   justify-content: space-around;
   padding: 0;
+  gap: 80px;
 }
 
 footer strong {
